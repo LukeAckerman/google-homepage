@@ -2,6 +2,7 @@ ul {
     list-style-type: none;
     margin: center;
     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 li {
     display: inline;
@@ -9,10 +10,10 @@ li {
 }
 .google-image {
     display: block;
-    margin-left: 35%;
+    margin-left: 40%;
     padding-top: 120px;
     margin-top: 5%;
-    width: 25%;
+    width: 50%;
     position: relative;
 }
 .searchbar {
@@ -33,6 +34,7 @@ footer {
     position: fixed;
     z-index: 104px;
     width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 header {
     top: 0;
@@ -41,10 +43,13 @@ header {
     position: fixed;
     z-index: 104px;
     width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .google-buttons {
     display: block;
-    margin-left: 35%;
+    margin-left: 40%;
     padding-top: 25px;
+    width: 25%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
