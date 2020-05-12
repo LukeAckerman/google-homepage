@@ -1,1 +1,1 @@
-This is my first TOP project! The layout of the Google homepage 
+This is my first TOP project! The layout of the Google homepage. I have demonstrated the skills of learning how to create very a basic HTML/CSS page and how git works on my own. I learned how to work around challenges that I face as I code, which has given me enjoyment when coding and has given me the confidence to continue to learn and work hard at TOP.
