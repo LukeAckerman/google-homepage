@@ -9,10 +9,11 @@ li {
 }
 .google-image {
     display: block;
-    margin-left: 40%;
+    margin-left: 35%;
     padding-top: 120px;
     margin-top: 5%;
-    width: 50%;
+    width: 25%;
+    position: relative;
 }
 .searchbar {
     display:block;
@@ -35,7 +36,7 @@ footer {
 }
 header {
     top: 0;
-    font-size: 12pt;
+    font-size: 16pt;
     height: 70px;
     position: fixed;
     z-index: 104px;
@@ -43,7 +44,7 @@ header {
 }
 .google-buttons {
     display: block;
-    margin-left: 40%;
+    margin-left: 35%;
     padding-top: 25px;
 }
 
